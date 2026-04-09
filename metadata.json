@@ -1,0 +1,5 @@
+{
+  "name": "AgendaBuilder AI",
+  "description": "Upload documents to automatically generate structured meeting agendas with a timeline view and AI refinement chat.",
+  "requestFramePermissions": []
+}
